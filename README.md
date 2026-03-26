@@ -5,11 +5,6 @@ Projeto de estacionamento inteligente que detecta vagas disponíveis em tempo re
 
 Projeto desenvolvido para controle inteligente de vagas em estacionamento utilizando sensores.
 
-## Tecnologias
-- Arduino / ESP
-- Banco de Dados
-- Dashboard Web
-
 ## Funcionalidades
 - Detecção de vagas
 - Monitoramento em tempo real
