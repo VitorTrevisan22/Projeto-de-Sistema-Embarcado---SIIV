@@ -9,6 +9,9 @@ Projeto desenvolvido para controle inteligente de vagas em estacionamento utiliz
 - Detecção de vagas
 - Monitoramento em tempo real
 - Interface visual
+- 
+ ## 📋 Kanban do Projeto
+[Acessar Kanban](https://github.com/users/VitorTrevisan22/projects/3)
 
 ## Autor
 Vitor Trevisan
